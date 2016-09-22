@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SkypeAPI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SkypeAPI_jar</output-path>
+    <root id="archive" name="SkypeAPI.jar">
+      <element id="module-output" name="SkypeAPI" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/skype-java-api-1.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
